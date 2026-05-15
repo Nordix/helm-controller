@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 images:
   - name: fluxcd/helm-controller
-    newName: fluxcd/helm-controller
-    newTag: v1.4.5
+    newName: registry.nordix.org/allies/helm-controller
+    newTag: v1.4.5-est-1
